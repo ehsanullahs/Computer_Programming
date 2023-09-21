@@ -95,7 +95,7 @@ def main():
         print('1. Calculate your energy consumption')
         print('2. Emissions from waste can be calculated')
         print("3. The carbon emissions associated with business travel are")
-        print('4. An overview of all calculations with a pie chart')
+        print('4. An overview of all calculations with a scatter chart')
         print("5. Exit")
 
         choice = input("'Choose one of the following (1-5): ")
